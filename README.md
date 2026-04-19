@@ -378,11 +378,6 @@ npm run dev
 
 For issues or questions, please refer to the documentation above or check the console logs.
 
-## 📄 License
-
-MIT
-
 ---
 
 **Built with ❤️ for gig workers**
-
