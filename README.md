@@ -373,11 +373,6 @@ npm run dev
 
 5. Anuj sees ₹50 in wallet on Dashboard
 ```
-
-## 📞 Support
-
-For issues or questions, please refer to the documentation above or check the console logs.
-
----
+Ream
 
 **Built with ❤️ for gig workers**
