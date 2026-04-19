@@ -373,6 +373,5 @@ npm run dev
 
 5. Anuj sees ₹50 in wallet on Dashboard
 ```
-Ream
 
 **Built with ❤️ for gig workers**
