@@ -13,6 +13,8 @@ A production-grade parametric insurance platform for gig workers that provides a
 
 ### System Flow
 
+
+
 ```
 1. User Registration → Risk Score Calculated
 2. Policy Creation → 24-hour Waiting Period Starts
